@@ -1,0 +1,207 @@
+{
+  "domain": "twillaurora",
+  "niche": "Haute Twill Weaves & Bespoke Aurora Silk Tailoring",
+  "design_concept": "Architectural Swiss Grid & Full-Width Panorama",
+  "archetype_id": "swiss_panorama",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "twillaurora_asset_1.jpg",
+      "size_kb": 244.93,
+      "md5": "6ca7257a923c3ea5744f25d792349eac",
+      "description": "Macro wool twill weave fibers and texture",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "twillaurora_asset_2.jpg",
+      "size_kb": 220.12,
+      "md5": "50d11636c8ae3bc9d5f443f427410d6f",
+      "description": "Vintage brass shears, chalk, and tape on oak bench",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "twillaurora_asset_3.jpg",
+      "size_kb": 174.47,
+      "md5": "3bb6d657d950503a94342c578d1951c0",
+      "description": "Bespoke charcoal twill blazer on wooden mannequin",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "twillaurora_asset_4.jpg",
+      "size_kb": 249.42,
+      "md5": "ec658fb58b34c04c36cf40bd04f5d70d",
+      "description": "Folded bolts of luxury twill and cashmere on shelves",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "twillaurora_asset_5.jpg",
+      "size_kb": 275.96,
+      "md5": "15648195e260d170f12251b1089ba43c",
+      "description": "Hand-stitched Milanese buttonhole and horn button",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "twillaurora_asset_6.jpg",
+      "size_kb": 226.74,
+      "md5": "c5020a5b38778a453c399e6f52b38f3f",
+      "description": "Antique cutting table with drafting pattern paper",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "twillaurora_asset_7.jpg",
+      "size_kb": 192.31,
+      "md5": "198cfb085fef5f1c235a8be8cbd4d458",
+      "description": "Master tailor hands with silver thimble sewing lapel",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "twillaurora_asset_8.jpg",
+      "size_kb": 250.74,
+      "md5": "3062653a64c8f55996577872eaabe790",
+      "description": "Vintage wooden spools of silk and linen tailoring threads",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "twillaurora_asset_9.jpg",
+      "size_kb": 305.27,
+      "md5": "c43b23fb8fb7fd6361808ecb8a63e1c1",
+      "description": "Flat lay of wooden clapper, pincushion, snips, horn buttons",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "twillaurora_asset_10.jpg",
+      "size_kb": 195.7,
+      "md5": "c0603b391776c54b82695c8cd620f69f",
+      "description": "Midnight navy wool twill blazer on solid brass hanger",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "twillaurora_asset_11.jpg",
+      "size_kb": 286.79,
+      "md5": "5664024f71ffda045a70c919fb5c635b",
+      "description": "Hand-rolled silk twill pocket squares in geometric prints",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "twillaurora_asset_12.jpg",
+      "size_kb": 237.56,
+      "md5": "12dd8218670a698648059b1d9815eefc",
+      "description": "Botanical dye natural fabric swatches fan layout",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "twillaurora_asset_13.jpg",
+      "size_kb": 332.14,
+      "md5": "29a5708fc84477ce5109643eb66ba37c",
+      "description": "Tailor shears cutting garment pattern paper on table",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "twillaurora_asset_14.jpg",
+      "size_kb": 190.66,
+      "md5": "249fcc3153e84a64ec67ad8274cb3841",
+      "description": "Bespoke atelier garment fitting silhouette",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "twillaurora_asset_15.jpg",
+      "size_kb": 51.68,
+      "md5": "41ab6e1461fd43b6baf76df5acc720e8",
+      "description": "Fine gauge luxury mulberry silk knit macro",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "twillaurora_asset_16.jpg",
+      "size_kb": 243.45,
+      "md5": "02f841de8378b0664d1683515a23aa6b",
+      "description": "Pure cashmere luxury collection drape and texture",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "twillaurora_asset_17.jpg",
+      "size_kb": 118.22,
+      "md5": "3caa24c9443cb9c3ddbc6ba81cefc516",
+      "description": "Artisan linen tailored silhouette drape",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "twillaurora_asset_18.jpg",
+      "size_kb": 222.91,
+      "md5": "ca99ca7878ecabde8d99d98327eb3ebd",
+      "description": "Modern minimalist tailored blazer styling",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "twillaurora_asset_19.jpg",
+      "size_kb": 228.47,
+      "md5": "c78f33bff471887f3980262cf641f157",
+      "description": "Artisan hand saddle-stitching with awl and waxed thread",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "twillaurora_asset_20.jpg",
+      "size_kb": 207.34,
+      "md5": "b8627209224bd3244efa1742722bd425",
+      "description": "Raw fleece ethical shearing and natural wool staple",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "767 Fifth Avenue, 24th Floor, New York, NY 10153, United States",
+    "telephone": "+1-877-212-8757",
+    "sitemap": "https://twillaurora.com/sitemap.xml",
+    "robots": "https://twillaurora.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
